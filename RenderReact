@@ -1,6 +1,6 @@
 import React from "react"
 
-class RenderReact extends React.Component{
+class App extends React.Component{
   render(){
     return(
       <div id="root">
@@ -9,4 +9,4 @@ class RenderReact extends React.Component{
     )
   }
 }
-export default RenderReact 
+export default App 
